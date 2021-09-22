@@ -31,5 +31,5 @@ A produção desse projeto possibilitou o aprendizado de:
 ## Hardware produzido:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/48588172/134418615-452b6d51-3bd3-4007-9c41-6165816a77f4.png" />
+  <img src="https://user-images.githubusercontent.com/48588172/134428133-f914f6fd-1d2e-47fb-87d8-ad365cf5702c.png" />
 </p>
